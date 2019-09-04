@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "990697915729",
+    "firebase_url": "https://afmfeed-986e8.firebaseio.com",
+    "project_id": "afmfeed-986e8",
+    "storage_bucket": "afmfeed-986e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990697915729:android:1d9859725b7e4108",
+        "android_client_info": {
+          "package_name": "com.app.afmfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990697915729-6ujvogo48i7u4km3edokampgu5le0fua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnZwQEDn-vARS2boU7eGq7VIib6atCM9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990697915729-6ujvogo48i7u4km3edokampgu5le0fua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990697915729:android:9ca72c0f07edf72c",
+        "android_client_info": {
+          "package_name": "tv.afriquemedia.afmfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990697915729-kknrp93ni7t76kkb6jk03k730lhs4m57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tv.afriquemedia.afmfeed",
+            "certificate_hash": "e8bc6991c4278ca88547ea7769f355aa49705d6a"
+          }
+        },
+        {
+          "client_id": "990697915729-6ujvogo48i7u4km3edokampgu5le0fua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnZwQEDn-vARS2boU7eGq7VIib6atCM9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990697915729-6ujvogo48i7u4km3edokampgu5le0fua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
